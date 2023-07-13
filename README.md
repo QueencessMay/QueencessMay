@@ -1,5 +1,5 @@
-- 👋 Hi, I’m @QueencessMay~
-- 👀 I’m interested in Mangas, Manhuas, Light Novels, Visual Novels, Games, Art, Math, and Coding. 
+- 👋 Hi, I’m @QueencessMay
+- 👀 I’m interested in Reading, Games, Art, and Coding. 
 - 🌱 I’m currently learning React and Tailwind.
 
 <!---
